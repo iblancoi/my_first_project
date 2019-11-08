@@ -7,4 +7,4 @@ flake8
 yapf
 python-gitlab
 git+https://github.com/dlennartsson/fridayfunfunction
-git+https://github.com/alancaunt/friday-feeling
+git+https://github.com/tobbe0xFF/projectx
